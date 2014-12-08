@@ -39,7 +39,7 @@ char server[] = "www.homeautomationserver.com";
 
 //keep HTTP/1.1 at the end. this is telling it what type of file it is
 //Replace the XXXXXXXXXXXXXX with your unique user_key
-String location = "/f/XXXXXXXXXXXXXX.txt HTTP/1.1";
+String location = "/f/9ZpWnx35lssF1R1wW5Fq.txt HTTP/1.1";
 
 // if need to change the MAC address (Very Rare)
 byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
